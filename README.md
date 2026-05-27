@@ -2,6 +2,9 @@
 - PS D:\React-Framework\react-chat-app> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 - PS D:\React-Framework\react-chat-app> npm run dev
 
+# Before Deployment run this
+- npm run build
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
